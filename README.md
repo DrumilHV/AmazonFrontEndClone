@@ -1,4 +1,12 @@
 # Getting Started with Create React App
+You can see this project deployed by [clicking here](https://amazon-bestseller-front-end-clone.netlify.app/)
+
+# Images:
+<img width="710" alt="Screenshot 2023-07-01 at 8 57 27 PM" src="https://github.com/DrumilHV/AmazonFrontEndClone/assets/91252875/70abdf43-cea5-4a3d-8d07-97739720ea5e">
+
+
+
+the rest of the thing remain the same as you see below 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
