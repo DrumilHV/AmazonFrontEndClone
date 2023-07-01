@@ -2,6 +2,7 @@ import img1 from "./images/LinuxBook.jpg";
 import img2 from "./images/10x Rule.jpg";
 import img3 from "./images/Energise your mind.jpg";
 import img4 from "./images/Power of subconcius mind.jpg";
+import img5 from "./images/karma.jpg";
 export const bookCatlog = [
   {
     title: "10X RULE",
@@ -12,7 +13,7 @@ export const bookCatlog = [
   {
     title: "Karma",
     auther: "SadGuru",
-    image: img3,
+    image: img5,
     id: 2,
   },
   {
@@ -31,7 +32,7 @@ export const bookCatlog = [
     title:
       "Energize Your Mind: Learn the Art of Mastering Your Thoughts, Feelings and Emotions",
     auther: "Gaur Gopal Das",
-    image: img1,
+    image: img3,
     id: 6,
   },
 ];

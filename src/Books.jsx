@@ -37,7 +37,7 @@ const Books = (props) => {
       <article className="book">
         <img src={image} alt={title} />
         <h1>{title}</h1>
-        <button onClick={() => getBook(id)}>click Me</button>
+        {/* <button onClick={() => getBook(id)}>click Me</button> */}
         <h4>{auther}</h4>
         <span className="number">{`#${index + 1}`}</span>
       </article>
