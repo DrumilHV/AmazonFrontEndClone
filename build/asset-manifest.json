@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.37aed1d3.css",
+    "main.js": "/static/js/main.f5708609.js",
+    "static/media/karma.jpg": "/static/media/karma.3fe24cc58bad9ba69dfc.jpg",
+    "static/media/LinuxBook.jpg": "/static/media/LinuxBook.ff6a943337987ec9ff86.jpg",
+    "static/media/Energise your mind.jpg": "/static/media/Energise your mind.773cdfc8829ade37b98d.jpg",
+    "static/media/10x Rule.jpg": "/static/media/10x Rule.240fb57f7baeba69dfa1.jpg",
+    "static/media/Power of subconcius mind.jpg": "/static/media/Power of subconcius mind.3359342dff490194e661.jpg",
+    "index.html": "/index.html",
+    "main.37aed1d3.css.map": "/static/css/main.37aed1d3.css.map",
+    "main.f5708609.js.map": "/static/js/main.f5708609.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.37aed1d3.css",
+    "static/js/main.f5708609.js"
+  ]
+}
